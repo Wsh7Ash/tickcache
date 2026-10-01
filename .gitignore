@@ -1,0 +1,13 @@
+# Test artifacts
+*.test
+*.out
+coverage.txt
+
+# Environment
+.env
+.env.*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
